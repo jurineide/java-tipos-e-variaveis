@@ -11,6 +11,8 @@ public class TiposVariaveis {
         int ano= 2023;
 
         final String NOME= "Jurineide"; // use o final e o nome da stryng de letra maiuscula para garantir que ela não seja alterada
+
+        
         
         System.out.println(NOME);
 
